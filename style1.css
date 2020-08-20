@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://www.photos-public-domain.com/wp-content/uploads/2012/01/crumpled-light-green-paper-texture.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+hr {
+  width: 50%;
+}
+h2,
+h1 {
+  color: orange;
+}
+h3 {
+  color: blueviolet;
+}
+h4,
+h5 {
+  color: crimson;
+}
+p.me {
+  font-size: 30px;
+}
+p.job {
+  font-size: 15px;
+}
